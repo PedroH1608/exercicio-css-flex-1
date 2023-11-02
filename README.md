@@ -1,3 +1,3 @@
 # Exercício CSS Flex 1
 
-Esse é o meu primeiro exercício de CSS Flex feito no curso DevQuest utilizando os comhecimentos ensinados de HTML e CSS.
+Primeiro exercício de CSS Flex feito no curso do DevQuest - Dev em Dobro utilizando as linguagens HTML e CSS
