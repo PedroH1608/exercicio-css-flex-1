@@ -1,0 +1,75 @@
+body {
+    background-color: var(--background-color);
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.card {
+    background-color: #ffffff;
+    width: 472px;
+    border-radius: 10px;
+    height: 501px;
+}
+
+.user{
+    /* background-color: deeppink; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+img {
+    width: 138px;
+    border-radius: 50%;
+    margin-top: 34px;
+}
+
+.name{
+    margin-top: 32px;
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.age{
+    color: var(--text-color);
+}
+
+.city{
+    margin-top: 35px;
+    font-size: 26px;
+    font-weight: 400;
+    margin-bottom: 47px;
+    color: var(--text-color);
+}
+
+.info{
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 2px solid var(--text-color);
+    height: 148px;
+    align-items: center;
+    /* background-color: chartreuse; */
+}
+
+.number{
+    font-size: 27px;
+}
+
+.number-info{
+    font-size: 26px;
+    color: var(--text-color);
+}
+
+.stats{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
