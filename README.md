@@ -1,3 +1,12 @@
-# Exercício CSS Flex 1
+# Profile Page - Flexbox Layout
 
-Primeiro exercício de CSS Flex feito no curso do DevQuest - Dev em Dobro utilizando as linguagens HTML e CSS
+First Project!
+
+A responsive profile page implementation using CSS Flexbox and CSS Variables.
+
+## Features
+- Responsive layout with Flexbox
+- CSS Variables for theme management
+- Semantic HTML structure
+- Clean and modern design
+- Reusable component-based structure
